@@ -13,4 +13,5 @@ def check(number):
 
 number = int(input("Enter a number: "))
 result = check(number)
+
 print(result)
