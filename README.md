@@ -1,3 +1,3 @@
 # Python-Practice
 
-Practicing and solving python quetions
+Practicing and solving python quetions.
