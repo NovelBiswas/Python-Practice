@@ -13,4 +13,5 @@ def positive_even(number):
 
 number = int(input("Enter a number: "))
 result = positive_even(number)
+
 print(result)
