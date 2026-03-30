@@ -1,6 +1,5 @@
 #Q5) Write a program to check if two variables point to the same object in memory. 
 
-
 x = [1, 2, 3]
 y = x
 if x is y:
